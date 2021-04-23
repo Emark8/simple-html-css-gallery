@@ -1,8 +1,8 @@
 {
-  "name": "Web222-Assignment2",
-  "version": "1.0.0",
-  "description": "Assignment in WEB222 using only basic HTML and CSS",
-  "main": "index.js",
-  "author": "Mark Anunciacion",
-  "license": "MIT"
+	"name": "Web222-Assignment1",
+	"version": "1.0.0",
+	"description": "Assignment in WEB222 using only basic HTML and CSS",
+	"main": "index.js",
+	"author": "Mark Anunciacion",
+	"license": "MIT"
 }
